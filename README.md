@@ -5,8 +5,6 @@
 
 <br/>
 <br/>
-
-🎓  Univ Student<br/>
 ⛏  Software Engineer<br/>
 </br>
 スキーとお寿司とLE SSERAFIMが好き
