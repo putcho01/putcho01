@@ -18,6 +18,9 @@ You can find me on [X](https://x.com/putcho01)
 
 * [Writings](https://zenn.dev/putcho)
 
+## Certifications
+- Google Cloud Professional Cloud Architect
+
 
 ## Contribution Activity
 
