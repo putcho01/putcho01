@@ -3,6 +3,7 @@
 <br/>
 ⛏  Software Engineer<br/>
 
+I like Go and GCP.
 You can find me on [X](https://x.com/putcho01)
 
 <br/>
