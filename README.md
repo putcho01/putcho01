@@ -3,6 +3,8 @@
 <br/>
 ⛏  Software Engineer<br/>
 
+You can find me on [X](https://x.com/putcho01)
+
 <br/>
 <br/>
 
