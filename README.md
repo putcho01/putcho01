@@ -20,6 +20,7 @@ You can find me on [X](https://x.com/putcho01)
 
 ## Certifications
 - Google Cloud Professional Cloud Architect
+- Google Cloud Professional DevOps Engineer
 
 
 ## Contribution Activity
